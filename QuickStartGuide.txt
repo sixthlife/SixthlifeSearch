@@ -1,0 +1,43 @@
+Quick Install
+
+
+1. Locate sixthlife-search plugin folder inside purchased files.
+2. Use winzip to create an archive(.zip) of secodwn folder.
+3. Upload Zipped Plugin sixthlife-search.zip, Install and Activate.
+4. Go to Settings => Sixthlife Config Make sure the Cron Schedules 
+that fetch Envato Products ARE NOT set to None. 
+
+6. Save the Settings. 
+
+
+Fetching Envato Products (Optional) 
+
+As Crons Already will do the fetching for you. However, to get started you need 
+some products so give it a try.
+
+1. Grab RSS URLS for Envato Products from the below File Updates RSS Links.
+
+http://codecanyon.net/page/file_updates/#rss
+http://themeforest.net/page/file_updates/#rss
+http://graphicriver.net/page/file_updates/#rss 
+
+2.  Go to Sixthlife Search => Envato RSS URLS and add the RSS URLS.
+
+3. Go to Sixthlife Search => ENvato RSS Themes fetch envato products.
+
+4. Go to Sixthlife Search => Envato Previews fetch Preview Images for the Envato Themes you got.
+
+5. Go to Sixthlife Search => Envato Previews fetch Preview Images for the Envato Themes you got.
+
+
+Create A WordPress Article/ Blog Post
+
+1. Go to Sixthlife Search => Theme Products Post and create your WordPress Post with Envato Products. 
+You can see a preview of the products included by clicking on the Show Button. 
+
+2. Find Your Newly created Blog Post in WordPress Dashboard Posts Menu.
+
+
+Support
+
+Please contact me at support@sixthlife.net if you need more information or help. 
